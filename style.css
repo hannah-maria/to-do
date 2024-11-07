@@ -154,5 +154,7 @@ ul li span:hover{
         width: 20px;
         height: 20px;
         line-height: 20px;
+        color: red;
+        font-size: 5px;
     }
 }
